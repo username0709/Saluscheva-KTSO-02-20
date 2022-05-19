@@ -1,4 +1,4 @@
 all:
-	gcc pr1-lec2.c -o pr1-lec2.o
+	gcc prog1-lec2.c -o prog1-lec2.o
 
 
